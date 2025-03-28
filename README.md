@@ -209,7 +209,16 @@ Currently, I am diving deep into Data Structures and Algorithms (DSAs) using C++
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## <h1> 👨‍💻 LeetCode </h1>
-<!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=ranvijay-kumar4&theme=github-drak" alt="LeetCode Badges"/> -->
+<p align="center"> <h2 align="center"> DSA Analytics </h2> </p>
+
+<table style="width:100%" align="center">
+  <tr>
+    <td> <img src="https://leetcard.jacoblin.cool/Tushar_solanki33?theme=dark&font=Noto%20Sans&ext=contest" 
+         alt="Leetcode stats" height="350"/> </td>
+    <td> <img src="https://leetcode-badge-showcase.vercel.app/api?username=tushar_solanki33&theme=dark&border=border&animated=true" alt="LeetCode Badges"/>
+ </td>
+  </tr>
+</table>
 
 ###
 
